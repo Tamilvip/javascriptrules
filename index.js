@@ -167,6 +167,7 @@ function appendError(fieldElement, errorMessage) {
     fieldElement.appendChild(errorContainer);
    
 }
+
 // Form Submission Function
 // Form Submission Function
 // function handleSubmit(event) {
